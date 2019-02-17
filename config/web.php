@@ -51,6 +51,7 @@ $config = [
         ],
     ],
     'params' => $params,
+    'defaultRoute' => 'country'
 ];
 
 if (YII_ENV_DEV) {
